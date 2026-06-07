@@ -1,6 +1,6 @@
 # PEPTIDE AI — UGC SCRIPT V1
 ### Alex Mercer | "The Protocol"
-**Format:** 60-second talking head | Hook: The Contrast
+**Format:** 60-second talking head | Hook: The Problem Agitator
 **Objective:** Quiz funnel conversions
 
 ---
@@ -10,10 +10,11 @@
 ---
 
 **[0–3s | HOOK]**
-*Direct to camera. No intro. Deliver flat — not excited. Let the words do the work.*
+*Direct to camera. No intro. Slightly pointed — like you're calling out a mistake the viewer is actively making.*
 
-> "Private longevity doctors charge £500 a session to build you a peptide protocol.
-> I got mine in four minutes. And mine had my actual data in it."
+> "Your peptide protocol isn't failing because peptides don't work.
+> It's failing because nobody built it around your biology.
+> There's a difference — and most people never figure that out."
 
 ---
 
@@ -68,7 +69,7 @@
 ## DELIVERY NOTES
 
 - **Overall energy:** Measured. Controlled. Like a founder presenting data, not a creator selling product.
-- **The hook:** Deliver it *flat*. The contrast does the work — don't punch it. The audience will do the math.
+- **The hook:** Deliver it with *quiet edge* — not anger, not urgency. The tone is "I know something you're about to realise." The third line ("most people never figure that out") is the blade — pause a half-beat before it.
 - **"I was spending serious money and genuinely guessing"** — this is the line that makes your target audience stop scrolling. It names the shame without performing it.
 - **"A protocol I could actually defend"** — this is the insight line. It reframes the desire as intellectual validation, not just physical results. Alex doesn't want to feel better. He wants to be *right*. Your audience is the same.
 - **The proof section:** One beat between each stat. Don't run them together. Let each number register. The line *"my wife noticed before I said anything"* is the emotional closer — one human detail after four data points. It lands because it's unexpected.
@@ -80,7 +81,7 @@
 
 | Element | Mechanism |
 |---|---|
-| Opening contrast (£500 vs 4 minutes) | Pattern interrupt + status reframe — your audience immediately calculates the gap |
+| Opening problem agitation | Reframes the viewer's existing failure as a *diagnosis*, not a verdict — they're not failing, they've been doing the wrong thing. That's actionable. Actionable is hopeful. Hopeful watches. |
 | "I was genuinely guessing" | Names the silent shame of your target audience — they feel seen before you've sold anything |
 | Mechanism section uses *their* data points | Oura, HRV, NMN, bloodwork — signals this brand speaks the language, not generic wellness |
 | Four specific metrics in the proof section | Specificity = credibility. One vague claim loses everything four numbers built |
